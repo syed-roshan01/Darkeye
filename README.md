@@ -13,29 +13,16 @@
 
 </p>
 
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/darksecdevelopers)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/syed-roshan01)
 [![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.2.7&x2=0)](https://github.com/syed-roshan01/HiddenEye/releases)
 
 </p>
 
-[![Made By Hipsters](https://forthebadge.com/images/badges/built-by-hipsters.svg)]()
-1) ANONUD4Y (https://github.com/An0nUD4Y)
-2) USAMA ABDUL SATTAR (https://github.com/usama7628674)
-3) sTiKyt (https://github.com/sTiKyt)
-4) UNDEADSEC (https://github.com/UndeadSec)
-5) Micrafast (https://github.com/Micrafast)
-6) ___________ (WAITING FOR YOU)
-
-### SCREENSHOT (Android-Userland)
-![Shot](https://github.com/syed-roshan01/HiddenEye/blob/master/Screenshot.png)
 
 
 ## CREDIT:-
-* Anonud4y ( I don't remember if i have done Anything )
-* Usama ( A Most active Developer)
-* sTiKyt ( Guy Who recustomized everything )
-* UNDEADSEC (For His wonderful repo socialfish which motivated us a lot)
-* TheLinuxChoice ( For His Tools Phishing Pages ) 
+*DARKSEC TEAM
+*https://github.com/DarkSecDevelopers
 
 ### TESTED ON FOLLOWING:-
 * **Kali Linux - Rolling Edition**
