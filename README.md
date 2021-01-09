@@ -14,7 +14,7 @@
 </p>
 
 [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/syed-roshan01)
-[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.2.7&x2=0)](https://github.com/syed-roshan01/HiddenEye/releases)
+[![GitHub version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=0.2.7&x2=0)](https://github.com/syed-roshan01/DarkEye/releases)
 
 </p>
 
