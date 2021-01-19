@@ -20,9 +20,7 @@
 
 
 ### SCREENSHOT (Android-Userland)
-![Shot](https://github.com/syed-roshan01/DarkEye/blob/master/Screenshot.png)
-
-
+<img width="80%" src="Screenshot.png"/>
 
 ## CREDIT:-
 *DARKSEC TEAM
